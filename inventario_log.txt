@@ -1,0 +1,7 @@
+[09/10/2025 18:54:25] Saída de 2 no produto 'Notebook Dell' | Antes: 15 | Movimentado: 2 | Final: 13 | Motivo: teste
+[09/10/2025 18:54:25] Saída de 2 no produto 'Teclado Mecânico' | Antes: 30 | Movimentado: 2 | Final: 28 | Motivo: teste
+[09/10/2025 18:54:25] Saída de 2 no produto 'Mouse Sem Fio' | Antes: 25 | Movimentado: 2 | Final: 23 | Motivo: teste
+[09/10/2025 18:54:25] Saída de 2 no produto 'Switch 24 portas' | Antes: 10 | Movimentado: 2 | Final: 8 | Motivo: teste
+[09/10/2025 18:54:25] Saída de 2 no produto 'HD Externo 1TB' | Antes: 12 | Movimentado: 2 | Final: 10 | Motivo: teste
+[09/10/2025 18:54:25] Saída de 2 no produto 'Servidor Dell R740' | Antes: 2 | Movimentado: 2 | Final: 0 | Motivo: teste
+[09/10/2025 18:54:25] Saída de 2 no produto 'Roteador TP-Link' | Antes: 8 | Movimentado: 2 | Final: 6 | Motivo: teste
